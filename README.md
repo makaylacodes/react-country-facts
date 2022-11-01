@@ -1,5 +1,5 @@
 # Country Facts
-A fullstack web app that allows users to search for specific countries and displays facts about the country. Live demo [_here_](https://json-server-country.netlify.app/). 
+A React web app that allows users to search for specific countries and displays facts about the country. Live demo [_here_](https://json-server-country.netlify.app/). 
 
 
 
